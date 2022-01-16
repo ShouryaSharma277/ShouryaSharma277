@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShouryaSharma277
 - 👀 I’m a web development enthusiast
-- 🌱 I’m currently learning Docker and Kubernetes
-- 🤖 I'm interested in machine learning and data science
+- 🌱 I’m currently learning Docker
 
 <!---
 ShouryaSharma277/ShouryaSharma277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
